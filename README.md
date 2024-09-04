@@ -1,20 +1,3 @@
-A responsive web application that allows users to search for and explore movies. 
-This project was built using React, leveraging The Movie Database (TMDb) API for movie data.
-
-Features:
-Search for movies by title.
-View movie details, including title, overview, release date, and rating.
-Responsive design for various screen sizes.
-User-friendly and intuitive interface.
-Performance optimizations for quick loading.
-Error handling and graceful fallbacks.
-
-Built With
-React - JavaScript library for building user interfaces.
-The Movie Database (TMDb) API - Source of movie data.
-fetch - Promise-based HTTP client for making API requests.
-styled-components - CSS-in-JS library for styling components.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
